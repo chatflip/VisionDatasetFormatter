@@ -6,7 +6,7 @@ This tool provides support for creating datasets in voc or coco format.
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.8+
 
 ## Installation
 

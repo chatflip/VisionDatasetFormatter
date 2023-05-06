@@ -10,7 +10,6 @@ from COCODataclass import (  # noqa: F401
     COCOInstanceCategory,
     COCOLicense,
 )
-from pycocotools.coco import COCO
 
 
 class COCOInstance:

@@ -6,7 +6,7 @@ authors = ["chatflip <oo.chat.flip@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.7,<4.0"
+python = ">=3.8,<4.0"
 opencv-python = "*"
 
 [tool.poetry.group.dev.dependencies]
@@ -16,6 +16,7 @@ flake8 = "4.0.1"
 isort = "5.10.1"
 mypy = "0.910"
 click = "8.0.2"
+pycocotools = "*"
 
 [tool.pysen]
 version = "0.10"
